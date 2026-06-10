@@ -1,5 +1,9 @@
 # CIFAR-10 Image Classification using CNN
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&style=for-the-badge)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+
 This project implements a simple Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 50,000 training images and 10,000 test images.
 
 ---
@@ -74,4 +78,3 @@ pip install tensorflow numpy matplotlib
 7. **License**: Specifies the project license.
 
 This structure ensures that anyone who wants to understand or use the project can do so easily. You can customize the links, filenames, and descriptions according to your project's specifics.
-
